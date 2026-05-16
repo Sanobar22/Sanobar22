@@ -38,12 +38,16 @@ I am looking for opportunities where I can apply my skills, gain industry experi
 
 ---
 
-# 📊 Most Used Languages:
+# 🚀 Current Focus:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanobar22\&theme=tokyonight\&hide_border=false\&layout=compact)
+* 🤖 Building AI & Machine Learning Projects
+* 🌐 Exploring Full Stack Web Development
+* 📚 Learning Advanced Deep Learning Concepts
+* ☁️ Improving Cloud & Deployment Skills
+* 💡 Creating Real-World Tech Solutions
 
 ---
 
 ## ✨ Developer Quote
 
-> “Artificial Intelligence is not replacing humans — it is empowering those who know how to build with it.”
+> “The future belongs to those who learn, build, and innovate with technology.”
