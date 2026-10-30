@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 Hello, my name is **Sanobar Shaikh**.
 I am currently pursuing a Bachelor's degree in Engineering with a specialization in **Artificial Intelligence and Machine Learning**.
